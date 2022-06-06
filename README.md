@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lishal
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning React
--
+- 🌱 Currently, I’m learning React
+
 
 <!---
 lishal/lishal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
